@@ -15,10 +15,10 @@
 
 ### 拥有 keystore，知道密码，恢复私钥
 [Paladz](https://github.com/Paladz): 
->>>需要暴力推 idx 但是难度不大
+>需要暴力推 idx 但是难度不大
 
 [wincss](https://github.com/wincss):
->>>和生成了多少地址有关系，不需要遍历所有的 idx ，做几次付款交易，通过找钱生成的地址就都回来了
+>和生成了多少地址有关系，不需要遍历所有的 idx ，做几次付款交易，通过找钱生成的地址就都回来了
 
 ## 运行在 以太坊 上原 erc20 btm 合约审计
 nil
