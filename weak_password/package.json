@@ -1,0 +1,14 @@
+{
+  "name": "bytomd-wpwd-scan",
+  "version": "0.0.1",
+  "description": "scan weak password for a xpub on a bytomd",
+  "main": "scan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HAOYUatHZ",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
